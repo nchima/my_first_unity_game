@@ -1,4 +1,1 @@
-2D-Platformer
-=============
-
-A 2D platformer game made in Unity3D, following the tutorials from [brackeys](http://www.youtube.com/playlist?list=PLPV2KyIb3jR42oVBU6K2DIL6Y22Ry9J1c).
+# My first Unity based video game. A concept based on a 2 player platformer where players have to be clever about which platforms they use. Both players have to get to the final platform to end the level but once a player has stepped on one platform another player can not use that platform as they will fall through it
